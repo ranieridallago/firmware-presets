@@ -13,6 +13,7 @@
 set osd_link_quality_alarm = 70
 set osd_rssi_dbm_alarm = -98
 set osd_alt_alarm = 120
+set osd_esc_rpm_alarm = 1000
 set osd_vbat_pos = 2648
 set osd_link_quality_pos = 3372
 set osd_rssi_dbm_pos = 3404
